@@ -6,7 +6,7 @@ namespace LV1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Pozdrav iz aplikacije od Ivana Viduke 0010101");
         }
     }
 }
